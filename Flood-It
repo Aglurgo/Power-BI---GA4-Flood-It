@@ -1,0 +1,20 @@
+Analisis de Flood - It, combinando GA4 con Power BI
+A partir de los datos obtenidos de la demo de Flood-It, realicé un análisis exploratorio que muestra cómo es posible transformar simples tablas de Google Analytics 4 en dashboards interactivos, visuales y mucho más amigables para interpretar.
+
+💡 Utilicé la opción de Exploraciones de GA4 (incluyendo embudos) para armar las tablas necesarias. Por cuestiones de permisos y restricciones, no pude conectar directamente con BigQuery o Power BI, así que opté por exportar los datos a Excel y trabajarlos desde allí.
+
+🎯 El objetivo fue demostrar que con lo que GA4 ofrece, incluso sin acceso total, se pueden generar visualizaciones ricas que ayudan a descubrir patrones de comportamiento de los usuarios.
+
+🛠️ Dentro del análisis utilicé:
+
+📌 Gráfico de dispersión para detectar páginas activas vs. páginas muertas
+
+📊 Barras para identificar los top eventos o pantallas
+
+🧱 Columnas agrupadas para comparar sesiones con y sin interacción
+
+🔽 Embudos para detectar puntos de abandono
+
+🎫 Tarjetas, botones y marcadores para mejorar la navegación
+
+🧪 Seguramente haya errores, tanto de interpretación como propios de la configuración de la demo, pero fue una gran experiencia para seguir aprendiendo.
